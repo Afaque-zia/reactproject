@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "username": "a",
+      "password": "1",
+      "id": 1
+    },
+    {
+      "username": "imran khan",
+      "password": "789012",
+      "id": 2
+    },
+    {
+      "username": "salman",
+      "password": "salman",
+      "id": 3
+    },
+    {
+      "username": "raheeq almakhtoom",
+      "password": "0000",
+      "id": 4
+    },
+    {
+      "username": "waseem shaikh",
+      "password": "8765",
+      "id": 5
+    },
+    {
+      "username": "rahul",
+      "password": "lkhanna",
+      "id": 6
+    },
+    {
+      "username": "qamar ashraf",
+      "password": "hihihi",
+      "id": 7
+    },
+    {
+      "username": "burhan khan",
+      "password": "54321",
+      "id": 8
+    },
+    {
+      "username": "waseem akram",
+      "password": "87654",
+      "id": 9
+    },
+    {
+      "username": "imtiyaz ahmad",
+      "password": "0000",
+      "id": 10
+    },
+    {
+      "username": "shahrukh khan",
+      "password": "8765",
+      "id": 11
+    },
+    {
+      "username": "umar khalid",
+      "password": "9876",
+      "id": 12
+    },
+    {
+      "username": "nazir akhtar",
+      "password": "876",
+      "id": 13
+    },
+    {
+      "username": "zubair alam",
+      "password": "9999",
+      "id": 14
+    },
+    {
+      "username": "pappi",
+      "password": "1234",
+      "id": 15
+    },
+    {
+      "username": "Heena Khan",
+      "password": "0000",
+      "id": 16
+    }
+  ]
+}
